@@ -26,3 +26,6 @@ void PrintArray (string[] array)
     }
     Console.WriteLine();
 }
+ArrayB(array1, array2);
+Console.WriteLine("Вывод массива строк, длина которых меньше либо равна 3 символа: ");
+PrintArray(array2);
